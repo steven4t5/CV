@@ -18,6 +18,6 @@ In school im currently studying honours:
 # - __[Work Expierance](https://nodeca.github.io/pica/demo/)__ -
 In fourth year ive been given the oppurtunity to complete workexpierance for companies such as
 IBM,ARUP and plan to complete more in the coming year with other various companies.With my expierance so far i feel myself leaning towards a future career in engineering.
-# - __[Hobbies](https://nodeca.github.io/pica/demo/)__ -
+# Hobbies
 With my school i play competitive rugby my most recent achievment in this being runners-up in the bowen shield final.I also have other hobbies such as football(soccer) my favourite team being Arsenal FC.Ihave many past times such as reading,drawing,videogames,music,etc.
-# - __[Contacts](https://nodeca.github.io/pica/demo/)__ -
+# Contacts
