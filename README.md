@@ -1,6 +1,6 @@
 # CV-Steven Sexton
-# Personal
-My name is Steven Sexton,I am a transition year student and i attend Presentation Brothers College in Cork city.I live outside the city in a small village called grenagh.
+# Personal/Education
+My name is Steven Sexton,I am a 16 year old transition year student and i attend Presentation Brothers College in Cork city.I live outside the city in a small village called grenagh.
 In school im currently studying honours:
 <p>Subjects:</p>
 <ul>
